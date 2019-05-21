@@ -1,1 +1,25 @@
 Problems (Requirement)
+----------------------------
+
+I am Raw Coffee Supplier.
+
+1)  Need to understand disrubution of bussines potential across in both city.
+
+2)  I need to idenitify the potential in both City New York  & Toronto.
+
+
+3)  Need to identify which one is best for batter margin in future, where i can focus more comparatively other one.
+
+
+
+Data & Solution
+-------------------------------
+1) get the city data for both "New York"  & "Toronto"
+
+2) By help "foursquare" API, will get Venue available of the city.
+
+3) Filter the Data based on Venue Category, will consider only Resturant, Hotel, Coffee center
+
+3) Based on number of Resturant, Hotel, Coffee center  will compare bith city which will give the demand of coffee.
+
+4) Which city has more number of Coffee center will plot the distrubution on the map to visualise to management. 
